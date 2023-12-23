@@ -1,0 +1,52 @@
+{
+  "id": "2136b877-4583-472b-a0ed-2b5efec3bec3",
+  "name": "FBM Data Framework",
+  "publisher": "FBM Group",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "287c2f5e-e9bb-40dd-bf05-b55c4a360c77",
+  "name": "DrakoLtdBCExt",
+  "publisher": "Bluefort Ltd",
+  "version": "1.0.1.7"
+    },
+    {
+      "id": "9d836a4f-3b97-4179-ae7d-608f099ba7f3",
+      "name": "FBM Data Dictionary",
+      "publisher": "FBM Group",
+      "version": "1.0.0.1"
+    },
+    {
+    "id": "c3ef51a2-70cb-4126-9f65-465f9bd1c01b",
+  "name": "Onetech",
+  "publisher": "Default publisher",
+  "version": "1.0.2.0"
+}
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 61599
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud"
+}
